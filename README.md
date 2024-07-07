@@ -39,29 +39,12 @@ As an upcoming Master's graduate in Applied Mathematics, I have developed a robu
 
 ## Portfolio Data Science
 
-Some qcademic projects and other projects I have completed out of interest to advance my skills. 
-
-### Best Paintings of All Time Classification Project
-
-#### Description
-In this project, as an art enthusiast, I took interest in classifying the best paintings of all time to be able to get their artistic movement or genre. For that, I used OpenCV and a convolutional neural network (CNN) implemented with TensorFlow. The goal was to accurately categorize paintings into various styles using image processing and machine learning.
-
-#### Data
-- Images of famous paintings from various sources.
-- Labels indicating the artistic movement or genre of each painting.
-
-#### Methodology
-- **Image preprocessing:** Using OpenCV for preprocessing images.
-- **Model Building:** Developing a CNN model with TensorFlow for classification.
-- **Evaluation:** Visualizing results to assess model performance.
-
-#### Results
-The project successfully classified paintings into various artistic styles with high accuracy, demonstrating the effectiveness of using CNNs for image classification tasks.
+Some academic projects and other projects I have completed out of interest to advance my skills. 
 
 ### Approximation of Hyperbolic PDEs with Neural Networks
 
 #### Description
-This project focuses on comparing continuous and discontinuous neural network (NN) models for approximating solutions to hyperbolic partial differential equations (PDEs). Utilizing the capabilities of Physics-Informed Neural Networks (PINNs) and incorporating novel approaches with discontinuous layers, we aim to enhance the accuracy of solutions for PDEs with inherent discontinuities.
+Compared continuous and discontinuous neural network models for approximating solutions to hyperbolic partial differential equations (PDEs), utilizing Physics-Informed Neural Networks (PINNs).
 
 #### Data
 - Simulated data of hyperbolic PDEs.
@@ -74,16 +57,31 @@ This project focuses on comparing continuous and discontinuous neural network (N
 #### Results
 Discontinuous NNs demonstrated improved accuracy in handling PDEs with discontinuities compared to continuous NNs, validated by comparisons with exact solutions of transport and Burgers equations.
 
+### Best Paintings of All Time Classification Project
+
+#### Description
+
+Classification of famous paintings into artistic movements or genres using a convolutional neural network (CNN) with TensorFlow and image preprocessing with OpenCV.
+
+#### Data
+- artist.csv: CSV file that contains information about the paintings and their corresponding artists (name, years, genre, nationality, paintings).
+- Labelled images of famous paintings.
+
+#### Methodology
+- **Image preprocessing:** Using OpenCV for preprocessing images.
+- **Model Building:** Developing a CNN model with TensorFlow for classification.
+- **Evaluation:** Visualizing results to assess model performance.
+
+#### Results
+The project successfully classified paintings into various artistic styles with high accuracy, demonstrating the effectiveness of using CNNs for image classification tasks.
+
 ### Stellar Classification
 
 #### Description
-This project focuses on classifying stars, galaxies, and quasars based on their properties such as temperature, luminosity, and spectral class using data analysis and machine learning techniques.
+Classifying stars, galaxies, and quasars based on their properties such as temperature, luminosity, and spectral class using data analysis and machine learning techniques.
 
 #### Data
-- **Photometric System Filters:** Magnitude measurements across five different filters (u, g, r, i, z).
-- **Spectroscopic ID:** Unique identifier for spectroscopic objects.
-- **Redshift:** Indicates the increase in wavelength due to the universe's expansion.
-- **Observation Details:** Plate number, modified Julian date, and fiber ID.
+- Dataset used in this project includes several attributes related to each object, captured through different spectral filters and measurement techniques.
 
 #### Methodology
 - **Data Loading and Exploration:** Initial dataset assessment.
@@ -97,7 +95,7 @@ The project effectively used machine learning to classify astronomical objects, 
 ### Projet-Brazil
 
 #### Description
-Analysis of public data from the Brazilian E-Commerce platform, olist, focusing on understanding customer behavior and improving business strategies.
+Analysis of public data from the Brazilian E-Commerce platform, Olist, focusing on understanding customer behavior and improving business strategies.
 
 #### Data
 - Publicly available dataset from olist containing information about orders, products, customers, and reviews.
