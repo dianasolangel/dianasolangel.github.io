@@ -4,7 +4,7 @@ As an upcoming Master's graduate in Applied Mathematics, I have developed a robu
 
 🌍 Curious, organized, creative, confident, and ambitious, I enjoy tackling various challenges. 
 
-🌿 I am particularly interested in the following areas: Science and Engenieering
+📡 I am particularly interested in the following areas: Science and Engenieering
 
 👉 My [LinkedIn](https://www.linkedin.com/in/diana-sol-fonseca) profile
 
@@ -21,10 +21,9 @@ As an upcoming Master's graduate in Applied Mathematics, I have developed a robu
 ## Education
 
 - **Master's degree in scientific computing and mathematics of information**, University of Strasbourg, 2024
-  - **Artificial Intelligence and Machine Learning:**
-    - Data processing and mining: Regression, Classification, Ensemble learning, Random forests, Time series, PCA.
-    - Deep learning: CNNs, RNNs, Attention, Development of chatbots with transformers, Computer Vision.
-    - Database management and analysis (SQL, Python).
+  - Data processing and mining: Regression, Classification, Ensemble learning, Random forests, Time series, PCA.
+  - Deep learning: CNNs, RNNs, Attention, Development of chatbots with transformers, Computer Vision.
+  - Database management and analysis (SQL, Python).
 
 - **Bachelor’s degree in Mathematics**, University of Caen-Normandy, 2022
   - Fundamental notions in mathematics and its fields of application (Computer Science, Data Analysis, Statistics and Physics).
@@ -40,10 +39,74 @@ As an upcoming Master's graduate in Applied Mathematics, I have developed a robu
 
 ## Portfolio Data Science
 
-Voici une sélection de quelques projets réalisés dans le cadre de ma formation OpenClassrooms:
+Some qcademic projects and other projects I have completed out of interest to advance my skills. 
 
-- **Project 1:** [Title and brief description of the project]
-- **Project 2:** [Title and brief description of the project]
-- **Project 3:** [Title and brief description of the project]
-- **Project 4:** [Title and brief description of the project]
+### Best Paintings of All Time Classification Project
 
+#### Description
+In this project, as an art enthusiast, I took interest in classifying the best paintings of all time to be able to get their artistic movement or genre. For that, I used OpenCV and a convolutional neural network (CNN) implemented with TensorFlow. The goal was to accurately categorize paintings into various styles using image processing and machine learning.
+
+#### Data
+- Images of famous paintings from various sources.
+- Labels indicating the artistic movement or genre of each painting.
+
+#### Methodology
+- **Image preprocessing:** Using OpenCV for preprocessing images.
+- **Model Building:** Developing a CNN model with TensorFlow for classification.
+- **Evaluation:** Visualizing results to assess model performance.
+
+#### Results
+The project successfully classified paintings into various artistic styles with high accuracy, demonstrating the effectiveness of using CNNs for image classification tasks.
+
+### Approximation of Hyperbolic PDEs with Neural Networks
+
+#### Description
+This project focuses on comparing continuous and discontinuous neural network (NN) models for approximating solutions to hyperbolic partial differential equations (PDEs). Utilizing the capabilities of Physics-Informed Neural Networks (PINNs) and incorporating novel approaches with discontinuous layers, we aim to enhance the accuracy of solutions for PDEs with inherent discontinuities.
+
+#### Data
+- Simulated data of hyperbolic PDEs.
+
+#### Methodology
+- **Model Implementation:** Continuous and discontinuous NNs for solving Hyperbolic PDEs.
+- **Comparison:** Detailed comparison based on computational efficiency and approximation accuracy.
+- **Tools:** ScimBa library, PyTorch.
+
+#### Results
+Discontinuous NNs demonstrated improved accuracy in handling PDEs with discontinuities compared to continuous NNs, validated by comparisons with exact solutions of transport and Burgers equations.
+
+### Stellar Classification
+
+#### Description
+This project focuses on classifying stars, galaxies, and quasars based on their properties such as temperature, luminosity, and spectral class using data analysis and machine learning techniques.
+
+#### Data
+- **Photometric System Filters:** Magnitude measurements across five different filters (u, g, r, i, z).
+- **Spectroscopic ID:** Unique identifier for spectroscopic objects.
+- **Redshift:** Indicates the increase in wavelength due to the universe's expansion.
+- **Observation Details:** Plate number, modified Julian date, and fiber ID.
+
+#### Methodology
+- **Data Loading and Exploration:** Initial dataset assessment.
+- **Data Preprocessing:** Cleaning and normalizing data.
+- **Model Building:** Using RandomForestClassifier, DecisionTreeClassifier, GradientBoostingClassifier, SVC, and deep learning models.
+- **Model Evaluation:** Comparing models based on accuracy and other metrics.
+
+#### Results
+The project effectively used machine learning to classify astronomical objects, showcasing the potential of data science in astrophysics.
+
+### Projet-Brazil
+
+#### Description
+Analysis of public data from the Brazilian E-Commerce platform, olist, focusing on understanding customer behavior and improving business strategies.
+
+#### Data
+- Publicly available dataset from olist containing information about orders, products, customers, and reviews.
+
+#### Methodology
+- **Data Loading and Exploration:** Assessing the dataset.
+- **Data Preprocessing:** Cleaning, normalizing, and preparing data for analysis.
+- **Analysis:** Performing various data analysis techniques to uncover insights.
+- **Visualization:** Creating visualizations to present findings.
+
+#### Results
+The analysis provided valuable insights into customer behavior and business performance, helping to inform strategic decisions for e-commerce improvements.
