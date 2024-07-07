@@ -4,7 +4,7 @@ As an upcoming Master's graduate in Applied Mathematics, I have developed a robu
 
 🌍 Curious, organized, creative, confident, and ambitious, I enjoy tackling various challenges. 
 
-📡 I am particularly interested in the following areas: Science and Engenieering
+📡 I am particularly interested in the following areas: Science and Engineering.
 
 👉 My [LinkedIn](https://www.linkedin.com/in/diana-sol-fonseca) profile
 
@@ -47,7 +47,7 @@ Some academic projects and other projects I have completed out of interest to ad
 Compared continuous and discontinuous neural network models for approximating solutions to hyperbolic partial differential equations (PDEs), utilizing Physics-Informed Neural Networks (PINNs).
 
 #### Data
-- Simulated data of hyperbolic PDEs.
+Simulated data of hyperbolic PDEs.
 
 #### Methodology
 - **Model Implementation:** Continuous and discontinuous NNs for solving Hyperbolic PDEs.
@@ -81,7 +81,7 @@ The project successfully classified paintings into various artistic styles with 
 Classifying stars, galaxies, and quasars based on their properties such as temperature, luminosity, and spectral class using data analysis and machine learning techniques.
 
 #### Data
-- The ataset used in this project includes several attributes related to each object, captured through different spectral filters and measurement techniques.
+The ataset used in this project includes several attributes related to each object, captured through different spectral filters and measurement techniques.
 
 #### Methodology
 - **Data Loading and Exploration:** Initial dataset assessment.
@@ -92,13 +92,13 @@ Classifying stars, galaxies, and quasars based on their properties such as tempe
 #### Results
 The project effectively used machine learning to classify astronomical objects, showcasing the potential of data science in astrophysics.
 
-### Projet-Brazil
+### E-commerce Brazil
 
 #### Description
 Analysis of public data from the Brazilian E-Commerce platform, Olist, focusing on understanding customer behavior and improving business strategies.
 
 #### Data
-- Publicly available dataset from olist containing information about orders, products, customers, and reviews.
+Publicly available dataset from olist containing information about orders, products, customers, and reviews.
 
 #### Methodology
 - **Data Loading and Exploration:** Assessing the dataset.
