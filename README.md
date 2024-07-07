@@ -64,7 +64,7 @@ Discontinuous NNs demonstrated improved accuracy in handling PDEs with discontin
 Classification of famous paintings into artistic movements or genres using a convolutional neural network (CNN) with TensorFlow and image preprocessing with OpenCV.
 
 #### Data
-- artist.csv: CSV file that contains information about the paintings and their corresponding artists (name, years, genre, nationality, paintings).
+- File that contains information about the paintings and their corresponding artists (name, years, genre, nationality, paintings).
 - Labelled images of famous paintings.
 
 #### Methodology
@@ -81,7 +81,7 @@ The project successfully classified paintings into various artistic styles with 
 Classifying stars, galaxies, and quasars based on their properties such as temperature, luminosity, and spectral class using data analysis and machine learning techniques.
 
 #### Data
-- Dataset used in this project includes several attributes related to each object, captured through different spectral filters and measurement techniques.
+- The ataset used in this project includes several attributes related to each object, captured through different spectral filters and measurement techniques.
 
 #### Methodology
 - **Data Loading and Exploration:** Initial dataset assessment.
